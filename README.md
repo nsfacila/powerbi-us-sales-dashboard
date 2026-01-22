@@ -97,11 +97,13 @@ The goal is to communicate insights quickly and clearly, not just display data.
 
 **Dashboard View**  
 Executive-level sales overview and trend analysis. 
+
 ![Dashboard Preview](dashboard_preview.png)
 
 
 **Data Model Schema**  
 Star schema supporting time intelligence and scalable reporting. 
+
 ![Data Model](model_schema.png)
 
 ---
